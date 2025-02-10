@@ -11,6 +11,15 @@ This project simulates a turtle race using the Python `turtle` module. Two turtl
     ```sh
     pip install easygui_qt
     ```
+      ```sh
+    pip install random
+    ```
+     ```sh
+    pip install turtle
+    ```
+    ```sh
+    pip install tkinter
+    ```
 
 ## How to Run
 1. Run the [main.py](http://_vscodecontentref_/1) script:
